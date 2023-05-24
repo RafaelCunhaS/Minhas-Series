@@ -1,4 +1,4 @@
-### Termos e acordos
+# Minhas Series
 
 Projeto desenvolvido durante a aceleração em Java no curso da Trybe.
 
